@@ -29,7 +29,7 @@ On PythonAnywhere:
     "user1234$loginexample".
 """
 dbuser = 'postgres'  # PUT YOUR USERNAME HERE - usually "root"
-dbpass = 'WRONGPASSWORD'  # PUT YOUR PASSWORD HERE
+dbpass = 'cYG13450806545'  # PUT YOUR PASSWORD HERE
 dbhost = 'localhost'
 dbport = 5432
 dbname = 'loginexample'
